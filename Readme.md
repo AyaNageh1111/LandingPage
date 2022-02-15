@@ -22,3 +22,6 @@ The HTML page consists of:
 - Five sections
 
 - footer
+
+### Notes
+ The page is suitable for all devices, such as phones and laptops, as it provides all size options.
