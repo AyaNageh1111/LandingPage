@@ -15,10 +15,10 @@ README.md
 
 The HTML page consists of:
 
-*Nav bar ( dynamically created based on the sections of the page )
+- Nav bar ( dynamically created based on the sections of the page )
 
-*Main hero section
+- Main hero section
 
-*Five sections
+- Five sections
 
-*footer
+- footer
