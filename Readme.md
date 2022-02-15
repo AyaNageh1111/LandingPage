@@ -1,12 +1,24 @@
-## Instructions
+## LandingPage
 
-#### First: Add 4th section
+Future Work is Digital Initiative (FWD) - Web Development Professional Track - first project
 ---
-#### Secode: Add the 4 sections to navigation bar
+## Architecture
+
+* css
+  - styles.css    
+* index.html
+* js
+  - app.js
+README.md
 ---
-#### Third: Change nav bar style
----
-#### Fourth: Make the background color changble
----
-#### Fifth: implement the active Bar
----
+### Content:
+
+The HTML page consists of:
+
+*Nav bar ( dynamically created based on the sections of the page )
+
+*Main hero section
+
+*Five sections
+
+*footer
